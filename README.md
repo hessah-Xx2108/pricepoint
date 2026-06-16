@@ -22,3 +22,13 @@ PricePoint is a mobile application that enables shoppers to share and compare in
 - **Database**: PostgreSQL + Sequelize 
 - **Authentication**: JWT + bcrypt 
 - **File Upload**: Multer 
+
+## Team
+
+- **Hissah Alroqaiti**  
+- **Lina Alarfaj** 
+
+**Advisor:** Professor Majid Khan
+**University:** Prince Mohammad Bin Fahd 
+**Major:** Computer Science Senior Project
+**Semester:** Spring 2026
